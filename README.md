@@ -16,8 +16,10 @@ Building [mimo-agent-pipeline](https://github.com/Abdelrahman-0-20/mimo-agent-pi
 | [rag-chat](https://github.com/Abdelrahman-0-20/rag-chat) | Retrieval-augmented chat over custom documents |
 | [ML-Automation-Platform](https://github.com/Abdelrahman-0-20/ML-Automation-Platform) | Automated end-to-end ML experimentation |
 | [insurance-claim-prediction](https://github.com/Abdelrahman-0-20/insurance-claim-prediction) | Claim outcome classification with explainable features |
-| [earthquake-prediction-model](https://github.com/Abdelrahman-0-20/earthquake-prediction-model) | Seismic event prediction from geophysical features |
-| [Crop-Image-Classification](https://github.com/Abdelrahman-0-20/Crop-Image-Classification) | Crop disease identification from leaf imagery |
+| [earthquake-prediction-model](https://github.com/Abdelrahman-0-20/earthquake-prediction-model) · [live](https://earthquake-prediction-model-7pks6lk8n64zj2kbwecxrw.streamlit.app/) | Seismic event prediction from geophysical features |
+| [Crop-Image-Classification](https://github.com/Abdelrahman-0-20/Crop-Image-Classification) · [live](https://crop-image-classification-5znotpjes5ttyxgutjnyx4.streamlit.app/) | Crop disease identification from leaf imagery |
+| [Sportmatryx](https://github.com/Abdelrahman-0-20/Sportmatryx) · [live](https://sportmatryx-ochre.vercel.app/) | Football athlete readiness platform — role-based access, audit trails, deterministic scoring |
+| [sportmatryx-v2](https://github.com/Abdelrahman-0-20/sportmatryx-v2) · [live](https://sportmatryx-v2.vercel.app/) | Human performance intelligence — readiness scores, player 360, data marketplace |
 | [sentiment-analysis-by-ollama-langchain-chroma](https://github.com/Abdelrahman-0-20/sentiment-analysis-by-ollama-langchain-chroma) | Local LLM sentiment analysis with LangChain and Chroma |
 | [Local-LLM-App-with-Streamlit-Ollama](https://github.com/Abdelrahman-0-20/Local-LLM-App-with-Streamlit-Ollama) | Fully local chat application built on Ollama and Streamlit |
 
