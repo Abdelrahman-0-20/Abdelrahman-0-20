@@ -2,7 +2,7 @@
 
 **ML Engineer building end-to-end ML systems — from prediction models to autonomous AI agent tooling.**
 
-🔭 **Currently:** autonomous multi-agent engineering pipelines (planner → builder → verifier, cost-aware model routing) — public release pending.
+🔭 **Currently:** building [**mimo-agent-pipeline**](https://github.com/Abdelrahman-0-20/mimo-agent-pipeline) — an autonomous engineering pipeline for DeepSeek Harness: dual-model MiMo routing with auto-escalation, a Planner→Builder→Verifier relay, and deterministic verification gates.
 
 🧠 **Interests:** LLM agents · MLOps · applied ML · local-first AI
 
@@ -26,6 +26,7 @@
 
 | Project | What it does |
 |---|---|
+| [**mimo-agent-pipeline**](https://github.com/Abdelrahman-0-20/mimo-agent-pipeline) | Autonomous engineering pipeline — cheap-by-default model routing, auto-escalation, multi-agent relay, every claim CI-verified |
 | [**ML-Automation-Platform**](https://github.com/Abdelrahman-0-20/ML-Automation-Platform) | Automated ML workflows — end-to-end experimentation without the boilerplate |
 | [**earthquake-prediction-model**](https://github.com/Abdelrahman-0-20/earthquake-prediction-model) | Seismic event prediction from geophysical features |
 | [**insurance-claim-prediction**](https://github.com/Abdelrahman-0-20/insurance-claim-prediction) | Claim outcome classification with explainable features |
